@@ -1,4 +1,4 @@
-## Hurricanes 🌀
+## Hurricane 🌀
 An asynchronous PHP framework. create by Sushil Kumar aka [Code With Sushil](https://github.com/CodeWithSushil).
 
 ### Authors 👨🏻‍💻
