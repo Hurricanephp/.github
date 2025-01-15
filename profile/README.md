@@ -1,8 +1,8 @@
 ## Hurricanes 🌀
-An asynchronous PHP framework. create by Sushil Kumar aka @CodeWithSushil.
+An asynchronous PHP framework. create by Sushil Kumar aka [Code With Sushil](https://github.com/CodeWithSushil).
 
 ### Authors 👨🏻‍💻
-@CodeWithSushil 
+[Code With Sushil](https://x.com/codesushil)
 <!--
 
 **Here are some ideas to get you started:**
