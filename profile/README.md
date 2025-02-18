@@ -1,8 +1,9 @@
 ## Hurricane 🌀
-An asynchronous PHP framework. create by Sushil Kumar aka [Code With Sushil](https://github.com/CodeWithSushil).
+A minimalist PHP framework. create by Sushil Kumar aka [Code With Sushil](https://github.com/CodeWithSushil) and [Ashish Kumbhar](https://github.com/AshishKumbhar01)
 
 ### Authors 👨🏻‍💻
 [Code With Sushil](https://x.com/codesushil)
+[Ashish Kumbhar](https://github.com/ashishkumbhar01)
 <!--
 
 **Here are some ideas to get you started:**
