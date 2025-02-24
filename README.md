@@ -1,2 +1,2 @@
 # .github
-Hurricane 🌀: Asynchronous PHP framework.
+Hurricane 🌀: An minimalist PHP framework.
