@@ -1,2 +1,2 @@
 # .github
-Hurricane 🌀: An minimalist PHP framework.
+Hurricane 🌀: A minimalist PHP framework.
